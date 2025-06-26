@@ -2,6 +2,8 @@
 
 ### Project Overview
 
+![charging station](https://github.com/user-attachments/assets/c45df249-0903-4ffc-9056-7918fb4de0fd)
+
 As electric vehicles (EVs) become increasingly popular, the demand for accessible charging stations in residential spaces is growing rapidly. This project analyzes EV charging usage data to help apartment building managers better understand tenant charging habits. The goal is to provide insights into peak usage times, station availability issues, and overall demand patterns, enabling better planning for future infrastructure upgrades and improved tenant satisfaction.
 
 ### Data Sources
@@ -126,7 +128,7 @@ The analysis results are summarized as follows:
 - The most popular times to start charging are between 3 p.m. and 7 p.m., especially on Sundays.
 - The analysis shows that user with the user_id "Share-9" has an average charging duration of 16.8 hours, while user with the user_id "Share-17" averages 12.9 hours.
 
-### Recommenadations
+### Recommendations
 
 Based on the analysis, we recommend following actions:
 - Consider adding more shared charging stations in Garage BI2 to meet demand and reduce user frustration.
